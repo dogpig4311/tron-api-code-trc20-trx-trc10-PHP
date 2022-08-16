@@ -1,7 +1,7 @@
 # tron-api-code-trc20-trx-trc10
 
 
-Tron-api-Tron interface source code-PHP version-ThinkPHP5 version, if you want to get this source code, in addition to Alipay and QQ, you can also transfer me USDT (150U) through your tron wallet（myaddress：TYPrKF2sevXuE86Xo3Y2mhFnjseiUcybny）, and then you can through Telegram (https://t. me/laowu2021) or email (cwwx1818@gmail.com) to contact me to get the source code, as long as the deployment is successful, you can call all the interfaces through the api.
+Tron-api-Tron interface source code-PHP version-ThinkPHP5 version, if you want to get this source code, in addition to Alipay and QQ, you can also transfer me USDT (500U) through your tron wallet（myaddress：TYPrKF2sevXuE86Xo3Y2mhFnjseiUcybny）, and then you can through Telegram (https://t. me/laowu2021) or email (cwwx1818@gmail.com) to contact me to get the source code, as long as the deployment is successful, you can call all the interfaces through the api.
 
 Interface document address: [https://www.showdoc.com.cn/1950021936889677/8867826777420288](https://www.showdoc.com.cn/1950021936889677/8867826777420288)
 
@@ -15,13 +15,11 @@ Interface document address: [https://www.showdoc.com.cn/1950021936889677/8867826
 > ### 6. ThinkPHP5 basic running requirements, this does not need to be said more
 ------------
 
-To get the source code, QQ: 1262135552 , wx: bishengshu The reason for adding a friend is specified. Before adding a friend, see the interface document address below
-
 
 # Tron-api-Tron interface source code-PHP version-ThinkPHP5 version
 ## The interface document editing time is May 19, 2022 15:50:54
-### If you have any questions, you can contact me QQ: 1262135552
-### The source code will be updated all the time. The complete source code of the current version of the interface needs to be charged, and the cost is 800 RMB. The package assists in the deployment (the source code is not encrypted)
+### If you have any questions, you can contact me tg: @laowu2021
+### The source code will be updated all the time. The complete source code of the current version of the interface needs to be charged, and the cost is 500 U. The package assists in the deployment (the source code is not encrypted)
 
 ------------
 
@@ -33,11 +31,6 @@ To get the source code, QQ: 1262135552 , wx: bishengshu The reason for adding a 
 ![image](https://user-images.githubusercontent.com/104345258/170924883-33e0abea-ce2e-4ece-88cc-f9b4cdb179c2.png)
 
  -->
-### USDT (150~USDT), Weixinpay(800￥), Alipay (800￥)
-##### address：TYPrKF2sevXuE86Xo3Y2mhFnjseiUcybny
-![image](https://user-images.githubusercontent.com/104345258/169248711-26494e2b-082d-472d-ada9-f0fe2eaa23dd.png)
-
-
 
 
 ------------
